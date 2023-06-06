@@ -1,1 +1,1 @@
-git push origin master
+echo "git merge origin/master" > up_to_date
